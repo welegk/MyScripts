@@ -4,7 +4,9 @@
 Deletes the entered sequence of characters from the names of folders and files. Deletion takes place in all subfolders following the specified path.
 
 **Usage**
+```
 python3 rename_files.py <path> "<word>"
+```
 
 **Example**
 ```bash
